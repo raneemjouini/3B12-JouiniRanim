@@ -1,0 +1,26 @@
+
+body{
+    font-family: "verdana";
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.btn {
+    background-color: #1f0d0d;
+    color: #c77878;
+    border: 1px solid #9999a0;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  .ranim{
+    background-color: #e0d3d3;
+    color: rgb(102, 7, 63);
+    border: 1px;
+    border-color: rgb(224, 168, 168);
+    border-style: .2rem solid;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
